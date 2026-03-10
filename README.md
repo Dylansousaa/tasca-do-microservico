@@ -10,11 +10,11 @@ Projeto com **Product Service** e **Order Service** containerizados com **Docker
 
 | Campo | Valor |
 |------|------|
-| Nome | Pedro Daniel Pereira Santos |
+| Nome | Dylan Sousa Zebreiro |
 | Turma | Microservices Academy 2026 |
 | Labs | Lab 3 & 4 – Dia 2 |
 | Data de entrega | 10/03/2026 |
-| Email | pedro.pereira.santos04@gmail.com |
+| Email | dylan.zebreiro@timwetech.com |
 
 ---
 
